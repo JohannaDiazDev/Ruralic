@@ -28,9 +28,11 @@ con la librería Turtle para los diseños. Se utilizó Pandas para la visualizac
 
   ## 📊 Código para generación de gráficas
 
-El archivo [`ResultadosRuralic.py`](codigo_graficas/ResultadosRuralic.py) contiene todo el código necesario para generar las gráficas a partir de los datos de la encuesta del proyecto Ruralic.
+- [`AnalisisRuralic.py`](codigo%20graficas/AnalisisRuralic.py)  
+- [`ResultadosRuralic.py`](codigo%20graficas/ResultadosRuralic.py)
 
 Este script fue desarrollado en Python utilizando las librerías `pandas` y `matplotlib`.
 
 📂 Las imágenes generadas se encuentran en la carpeta [`graficas/`](graficas/).
 
+![Pregunta 1](codigo%20graficas/graficas/pregunta1.png)
