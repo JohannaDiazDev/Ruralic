@@ -21,7 +21,16 @@ con la librería Turtle para los diseños. Se utilizó Pandas para la visualizac
 
   # Logo
   <img width="224" height="195" alt="logoRuralic" src="https://github.com/user-attachments/assets/1ea9408a-17db-40b8-a435-83faad6fb233" />
+
   [(https://vt.tiktok.com/ZSSkTvorA/)]
+
   El logo de ruralic fue diseñado en Canva y posteriormente en Turtle como parte del desarrollo visual del proyecto.
 
-  # Gráficas
+  ## 📊 Código para generación de gráficas
+
+El archivo [`ResultadosRuralic.py`](codigo_graficas/ResultadosRuralic.py) contiene todo el código necesario para generar las gráficas a partir de los datos de la encuesta del proyecto Ruralic.
+
+Este script fue desarrollado en Python utilizando las librerías `pandas` y `matplotlib`.
+
+📂 Las imágenes generadas se encuentran en la carpeta [`graficas/`](graficas/).
+
