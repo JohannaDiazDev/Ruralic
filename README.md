@@ -35,4 +35,5 @@ Este script fue desarrollado en Python utilizando las librerías `pandas` y `mat
 
 📂 Las imágenes generadas se encuentran en la carpeta [`graficas/`](graficas/).
 
-![Pregunta 1](codigo%20graficas/graficas/pregunta1.png)
+<img width="800" height="600" alt="pregunta17" src="https://github.com/user-attachments/assets/17354465-1edc-420a-b4b9-d7dc74aaee05" />
+
